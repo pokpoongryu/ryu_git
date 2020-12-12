@@ -12,6 +12,7 @@ int main()
 
 	CActor tActor;
 	tActor.Doit();
+	tActor.Dothat();
 
 
 	return 0;

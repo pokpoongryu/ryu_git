@@ -6,3 +6,7 @@ void CActor::Doit()
 {
 	cout<<"CActor::Doit"<<endl;
 }
+void CActor::Dothat()
+{
+	cout<<"CActor::Dothat"<<endl;
+}
